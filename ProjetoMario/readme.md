@@ -1,1 +1,1 @@
-Projeto realizado durante a semana do zero ao programador contratado, ministrado por Dev em Dobro
+Projeto realizado em conjunto com Dev em Dobro durante a semana do zero ao programador contratado
